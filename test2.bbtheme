@@ -1,0 +1,28 @@
+{
+	"name": "Copy of Portland",
+	"author": "TNT4ME",
+	"borders": false,
+	"main_font": "",
+	"headline_font": "",
+	"code_font": "",
+	"css": "",
+	"colors": {
+		"ui": "#1c212d",
+		"back": "#151924",
+		"dark": "#101219",
+		"border": "#0b0d0f",
+		"selected": "#ffffff",
+		"button": "#151924",
+		"bright_ui": "#262f37",
+		"accent": "#3be579",
+		"frame": "#0b0d0f",
+		"text": "#d2d4db",
+		"light": "#e8eef2",
+		"accent_text": "#13161d",
+		"bright_ui_text": "#cdd5e4",
+		"subtle_text": "#848891",
+		"grid": "#585f6f",
+		"wireframe": "#576f82",
+		"checkerboard": "#2e3643"
+	}
+}
